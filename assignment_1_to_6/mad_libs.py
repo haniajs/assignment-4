@@ -1,0 +1,11 @@
+name = input("Enter the girl name: ")
+programing_language = input("Enter a programing language (e.g: python, next.js, typescript, html): ")
+mentor = input("Enter the mentor name: ")
+location = input("Enter location (e.g: governor house): ")
+
+print("\n Here is my little story based on mad libs game!")
+print(f"Once upon a time, there was a girl named {name}.")
+print(f"{name} was very curious and always want to learn new things.")
+print(f"One day, she decided to learn {programing_language} language at {location}!")
+print(f"Luckly {name} found a great mentor name as {mentor} who was an expert in {programing_language}.")
+print("And so, her journey continues.....!")
